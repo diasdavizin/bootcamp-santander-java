@@ -22,7 +22,7 @@ public class OperadoresUnarios {
 
         // This exemple show how to inclemente one number.
 
-        /*int numero = 5;
+        /* int numero = 5;
 
         numero++;
 
@@ -44,6 +44,6 @@ public class OperadoresUnarios {
         variavel = !variavel;
 
         System.out.println(variavel);
-
+        */
     }
 }
